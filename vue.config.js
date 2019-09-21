@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/google-oauth2'
+  publicPath: '/google-oauth'
 }
